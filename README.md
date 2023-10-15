@@ -6,7 +6,7 @@
 
 - 💞️ Open to collaborations on innovative web projects that challenge the status quo.
 
-- 📫 How to reach me: Feel free to message me here on GitHub or via email at boubakhr224@example.com. Let's connect and bring ideas to life!
+- 📫 How to reach me: Feel free to message me here on GitHub or via email at bconte555@gmail.com. Let's connect and bring ideas to life!
 
 <!---
 Boubakhr224/Boubakhr224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
